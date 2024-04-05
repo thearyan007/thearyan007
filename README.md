@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
+<h3 align="center">Check my portfolio: <a href="http://aryan1.netlify.app/">http://aryan1.netlify.app/</a></h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.aryan3000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryangupta007) 
