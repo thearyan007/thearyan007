@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate PowerPlatform and MERN STACK developer from India</h3>
-<h3 align="center">Checkout my portfolio: <a href="http://aryan1.netlify.app/">http://aryan1.netlify.app/</a></h3>
+<!-- <h3 align="center">Checkout my portfolio: <a href="http://aryan1.netlify.app/">http://aryan1.netlify.app/</a></h3> -->
 <h3 align="center">Leetcode Profile: <a href="https://leetcode.com/u/iamaryan78/">https://leetcode.com/u/iamaryan78/</a></h3>
 
 ## 🌐 Socials:
